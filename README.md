@@ -126,7 +126,7 @@ The analysis highlights:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_UnemploymentAnalysis.git
+git clone https://github.com/mdmozammil1245-maker/CodeAlpha_UnemploymentAnalysis.git
 ```
 
 ### 2. Open the project folder
